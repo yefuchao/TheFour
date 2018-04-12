@@ -14,4 +14,3 @@
 |专栏页面|POST|/h24/app/v2/column/refresh|` {"columnId":"88","lastRefreshTime":0} `|
 |订阅专栏|POST|/h24/app/v0/column/subscribe|` {"columnId":"88"} `|
 |专栏列表|GET|/h24/app/v1/column/recommend|
-

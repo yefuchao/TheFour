@@ -1,7 +1,7 @@
 {
   "name": "thefour",
   "version": "1.0.0",
-  "description": "",
+  "description": "- 浙江24小时app每日任务",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,13 @@
   "dependencies": {
     "request": "^2.85.0",
     "timespan": "^2.3.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yefuchao/TheHour.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yefuchao/TheHour/issues"
+  },
+  "homepage": "https://github.com/yefuchao/TheHour#readme"
 }
